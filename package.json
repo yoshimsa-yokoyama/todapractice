@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/yoshimsa-yokoyama/todapractice",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0"
   }
 }

@@ -1,6 +1,5 @@
 #npm packages
 gulp = require 'gulp'
-del = require 'del'
 connect = require 'gulp-connect'
 
 gulp.task 'copy', ->
