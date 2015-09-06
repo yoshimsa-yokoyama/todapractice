@@ -1,0 +1,26 @@
+{
+  "name": "toda-practice",
+  "version": "1.0.0",
+  "description": "toda pub-sub pattern practice",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoshimsa-yokoyama/todapractice.git"
+  },
+  "keywords": [
+    "practice",
+    "pub-sub"
+  ],
+  "author": "Yoshimasa Yokoyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoshimsa-yokoyama/todapractice/issues"
+  },
+  "homepage": "https://github.com/yoshimsa-yokoyama/todapractice",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
